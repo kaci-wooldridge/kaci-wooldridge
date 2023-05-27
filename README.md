@@ -21,7 +21,7 @@ During my time at Nashville Software School, I had a blast building full-stack w
 
 ## 🍄 Let's collaborate and conquer!
 
-I'm a firm believer in the power of collaboration. If you've got an exciting project brewing or you want to contribute to open-source initiatives, count me in! Let's brainstorm, code like rockstars, and create something truly fabulous together! 💫
+I'm a firm believer in the power of collaboration. If you've got an exciting project brewing or you want to contribute to open-source initiatives, count me in! Let's brainstorm and create something truly fabulous together! 💫
 
 ## 💌 How to reach me
 
